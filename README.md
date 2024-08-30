@@ -17,4 +17,6 @@ Pip install requirements:
 conda install --file requirements.txt
 ```
 
+Add the `Maine_Power.csv` dataset to the `data` directory
+
 You should now be able to run the Maine blackout analysis Jupyter notebook locally!
