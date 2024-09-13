@@ -1,17 +1,17 @@
-County,Overall Yearly Average Outage Hours per Customer (2017 - 2023)
-Androscoggin,10.873594379806434
-Aroostook,28.526452134458516
-Cumberland,10.989716635099748
-Franklin,22.521771349124325
-Hancock,30.257908613676904
-Kennebec,11.95950021894106
-Knox,15.763804410842202
-Lincoln,26.07813415248496
-Oxford,22.38994949113874
-Penobscot,20.056071320593027
-Piscataquis,27.396198694839146
-Sagadahoc,21.454081519758482
-Somerset,22.53063349121141
-Waldo,20.322348566750943
-Washington,16.952536807979858
-York,13.457661979665973
+County,Overall Yearly Average Outage Hours per Customer (2017 - 2023),Utility Provider(s)
+Androscoggin,10.873594379806434,Central Maine Power
+Aroostook,28.526452134458516,"Eastern Maine Power Cooperative, Versant Power"
+Cumberland,10.989716635099748,Central Maine Power
+Franklin,22.521771349124325,Central Maine Power
+Hancock,30.257908613676904,"Central Maine Power, Versant Power"
+Kennebec,11.95950021894106,Central Maine Power
+Knox,15.763804410842202,Central Maine Power
+Lincoln,26.07813415248496,Central Maine Power
+Oxford,22.38994949113874,Central Maine Power
+Penobscot,20.056071320593027,"Central Maine Power, Eastern Maine Power Cooperative, Versant Power"
+Piscataquis,27.396198694839146,"Central Maine Power, Versant Power"
+Sagadahoc,21.454081519758482,Central Maine Power
+Somerset,22.53063349121141,Central Maine Power
+Waldo,20.322348566750943,"Central Maine Power, Versant Power"
+Washington,16.952536807979858,"Eastern Maine Power Cooperative, Versant Power"
+York,13.457661979665973,Central Maine Power
