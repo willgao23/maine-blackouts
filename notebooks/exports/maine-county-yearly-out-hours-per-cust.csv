@@ -1,127 +1,127 @@
 County,Year,Average Outage Hours per Customer,UtilityName
 Androscoggin,2016,1.220995271754972,Central Maine Power
-Androscoggin,2017,3.0931340406917123,Central Maine Power
-Androscoggin,2018,6.942541443076265,Central Maine Power
-Androscoggin,2019,5.398299685984459,Central Maine Power
-Androscoggin,2020,33.40945634639959,Central Maine Power
-Androscoggin,2021,2.9929599720633817,Central Maine Power
-Androscoggin,2022,19.751387727563678,Central Maine Power
-Androscoggin,2023,4.527381442865953,Central Maine Power
-Aroostook,2017,121.64692735542873,Versant Power
-Aroostook,2018,39.249731112500704,"Versant Power, Versant Power, Eastern Maine Power Cooperative"
-Aroostook,2019,9.189646901476173,"Versant Power, Eastern Maine Power Cooperative"
-Aroostook,2020,11.510222876309742,"Eastern Maine Power Cooperative, Versant Power, Versant Power, Eastern Maine Power Cooperative"
-Aroostook,2021,5.079363710968287,"Versant Power, Eastern Maine Power Cooperative, Eastern Maine Power Cooperative, Versant Power"
-Aroostook,2022,11.311792517423303,"Eastern Maine Power Cooperative, Versant Power, Versant Power, Eastern Maine Power Cooperative"
-Aroostook,2023,1.6974804671026906,"Versant Power, Eastern Maine Power Cooperative, Eastern Maine Power Cooperative, Versant Power"
+Androscoggin,2017,3.0723337789275207,Central Maine Power
+Androscoggin,2018,6.8420066374845385,Central Maine Power
+Androscoggin,2019,5.366024796984828,Central Maine Power
+Androscoggin,2020,31.444887797667654,Central Maine Power
+Androscoggin,2021,2.971081173600489,Central Maine Power
+Androscoggin,2022,18.555734694209235,Central Maine Power
+Androscoggin,2023,4.462401995468608,Central Maine Power
+Aroostook,2017,57.3342788904432,Versant Power
+Aroostook,2018,32.27940001870071,"Versant Power, Versant Power, Eastern Maine Power Cooperative"
+Aroostook,2019,8.789590144653275,"Versant Power, Eastern Maine Power Cooperative"
+Aroostook,2020,10.613826434824599,"Eastern Maine Power Cooperative, Versant Power, Versant Power, Eastern Maine Power Cooperative"
+Aroostook,2021,4.972587205660389,"Versant Power, Eastern Maine Power Cooperative, Eastern Maine Power Cooperative, Versant Power"
+Aroostook,2022,10.36848001593477,"Eastern Maine Power Cooperative, Versant Power, Versant Power, Eastern Maine Power Cooperative"
+Aroostook,2023,1.6569526461144666,"Versant Power, Eastern Maine Power Cooperative, Eastern Maine Power Cooperative, Versant Power"
 Cumberland,2016,2.4491883900750713,Central Maine Power
-Cumberland,2017,3.8030516098288807,Central Maine Power
-Cumberland,2018,7.648883223156898,Central Maine Power
-Cumberland,2019,17.087375283343913,Central Maine Power
-Cumberland,2020,21.541240534229644,Central Maine Power
-Cumberland,2021,3.948134355325356,Central Maine Power
-Cumberland,2022,18.060823073221,Central Maine Power
-Cumberland,2023,4.83850836659254,Central Maine Power
+Cumberland,2017,3.77544973927751,Central Maine Power
+Cumberland,2018,7.590370663647409,Central Maine Power
+Cumberland,2019,16.667771798012676,Central Maine Power
+Cumberland,2020,20.73378065434402,Central Maine Power
+Cumberland,2021,3.9391307865247582,Central Maine Power
+Cumberland,2022,17.156253710183314,Central Maine Power
+Cumberland,2023,4.789514184974301,Central Maine Power
 Franklin,2016,0.7715351504999746,Central Maine Power
-Franklin,2017,2.4308729301199654,Central Maine Power
-Franklin,2018,24.41892294569235,Central Maine Power
-Franklin,2019,24.304102059728944,Central Maine Power
-Franklin,2020,71.36221894439812,Central Maine Power
-Franklin,2021,11.746695708349955,Central Maine Power
-Franklin,2022,17.43632385487576,Central Maine Power
-Franklin,2023,5.95326300070517,Central Maine Power
+Franklin,2017,2.4137278602789873,Central Maine Power
+Franklin,2018,22.3489626337658,Central Maine Power
+Franklin,2019,22.45677756744432,Central Maine Power
+Franklin,2020,56.42372456223379,Central Maine Power
+Franklin,2021,10.668033201565821,Central Maine Power
+Franklin,2022,15.750811814644502,Central Maine Power
+Franklin,2023,5.730608920181545,Central Maine Power
 Hancock,2016,0.37485629054405983,Central Maine Power
-Hancock,2017,69.69102028465187,"Central Maine Power, Central Maine Power, Versant Power, Versant Power, Central Maine Power"
-Hancock,2018,22.02716648354826,"Versant Power, Central Maine Power, Central Maine Power, Versant Power"
-Hancock,2019,33.3629314159039,"Versant Power, Central Maine Power, Central Maine Power, Versant Power"
-Hancock,2020,30.758801243739107,"Versant Power, Central Maine Power, Central Maine Power, Versant Power"
-Hancock,2021,8.312039756988899,"Versant Power, Central Maine Power, Central Maine Power, Versant Power"
-Hancock,2022,35.735250143184146,"Versant Power, Central Maine Power, Central Maine Power, Versant Power"
-Hancock,2023,11.91815096772213,"Central Maine Power, Versant Power, Versant Power, Central Maine Power"
+Hancock,2017,53.880571717472115,"Central Maine Power, Central Maine Power, Versant Power, Versant Power, Central Maine Power"
+Hancock,2018,19.722007843949417,"Versant Power, Central Maine Power, Central Maine Power, Versant Power"
+Hancock,2019,29.74801835872958,"Versant Power, Central Maine Power, Central Maine Power, Versant Power"
+Hancock,2020,27.40326728350216,"Versant Power, Central Maine Power, Central Maine Power, Versant Power"
+Hancock,2021,7.999870213516688,"Versant Power, Central Maine Power, Central Maine Power, Versant Power"
+Hancock,2022,30.350392618021253,"Versant Power, Central Maine Power, Central Maine Power, Versant Power"
+Hancock,2023,11.5649754254622,"Central Maine Power, Versant Power, Versant Power, Central Maine Power"
 Kennebec,2016,7.511888497835501,Central Maine Power
-Kennebec,2017,3.5413111317934614,Central Maine Power
-Kennebec,2018,6.129625247568392,Central Maine Power
-Kennebec,2019,7.16080423044188,Central Maine Power
-Kennebec,2020,46.358724426256614,Central Maine Power
-Kennebec,2021,4.929771856808879,Central Maine Power
-Kennebec,2022,12.352459590838432,Central Maine Power
-Kennebec,2023,3.2438050488797545,Central Maine Power
+Kennebec,2017,3.5147691099013856,Central Maine Power
+Kennebec,2018,6.085733430893057,Central Maine Power
+Kennebec,2019,7.077614372512673,Central Maine Power
+Kennebec,2020,41.31623154143509,Central Maine Power
+Kennebec,2021,4.841706182230134,Central Maine Power
+Kennebec,2022,11.965800269926314,Central Maine Power
+Kennebec,2023,3.224933548217497,Central Maine Power
 Knox,2016,0.9795776221775379,Central Maine Power
-Knox,2017,3.761889173325428,Central Maine Power
-Knox,2018,5.125403605092144,Central Maine Power
-Knox,2019,24.75031509978321,Central Maine Power
-Knox,2020,35.90176721096987,Central Maine Power
-Knox,2021,4.689305722091644,Central Maine Power
-Knox,2022,14.904701843322329,Central Maine Power
-Knox,2023,21.213248221310785,Central Maine Power
+Knox,2017,3.739553085448923,Central Maine Power
+Knox,2018,5.100420248575867,Central Maine Power
+Knox,2019,23.419325124116508,Central Maine Power
+Knox,2020,32.64545061686996,Central Maine Power
+Knox,2021,4.592636474359174,Central Maine Power
+Knox,2022,14.21073891832913,Central Maine Power
+Knox,2023,19.38863590461545,Central Maine Power
 Lincoln,2016,4.468060533619984,Central Maine Power
-Lincoln,2017,7.351301986002787,Central Maine Power
-Lincoln,2018,18.558249073184125,Central Maine Power
-Lincoln,2019,42.32850772179825,Central Maine Power
-Lincoln,2020,55.236377719777245,Central Maine Power
-Lincoln,2021,9.071988904134106,Central Maine Power
-Lincoln,2022,29.178371585054784,Central Maine Power
-Lincoln,2023,20.822142077443434,Central Maine Power
+Lincoln,2017,7.174114434855001,Central Maine Power
+Lincoln,2018,17.782250926069402,Central Maine Power
+Lincoln,2019,37.23020844434194,Central Maine Power
+Lincoln,2020,47.11140190654982,Central Maine Power
+Lincoln,2021,8.87620201076885,Central Maine Power
+Lincoln,2022,26.754755120237846,Central Maine Power
+Lincoln,2023,19.170066133563864,Central Maine Power
 Oxford,2016,0.318922617012347,Central Maine Power
-Oxford,2017,2.2417440782098867,Central Maine Power
-Oxford,2018,25.455104313937618,Central Maine Power
-Oxford,2019,15.136230635434107,Central Maine Power
-Oxford,2020,46.383139501019315,Central Maine Power
-Oxford,2021,13.503275074589855,Central Maine Power
-Oxford,2022,49.50730334232958,Central Maine Power
-Oxford,2023,4.502849492450827,Central Maine Power
+Oxford,2017,2.2339700584461237,Central Maine Power
+Oxford,2018,23.490732559590665,Central Maine Power
+Oxford,2019,14.54143745632152,Central Maine Power
+Oxford,2020,40.74882609738546,Central Maine Power
+Oxford,2021,12.846326218845181,Central Maine Power
+Oxford,2022,41.82344626308822,Central Maine Power
+Oxford,2023,4.39389429689035,Central Maine Power
 Penobscot,2016,7.234920082535185,Central Maine Power
-Penobscot,2017,27.909873894624837,"Central Maine Power, Central Maine Power, Versant Power, Versant Power, Central Maine Power"
-Penobscot,2018,13.232411008195552,"Versant Power, Central Maine Power, Versant Power, Central Maine Power, Eastern Maine Power Cooperative, Central Maine Power, Versant Power, Eastern Maine Power Cooperative"
-Penobscot,2019,21.314917699112055,"Central Maine Power, Versant Power, Eastern Maine Power Cooperative, Versant Power, Central Maine Power, Eastern Maine Power Cooperative"
-Penobscot,2020,50.06375426542691,"Eastern Maine Power Cooperative, Versant Power, Central Maine Power, Versant Power, Eastern Maine Power Cooperative, Central Maine Power, Central Maine Power, Versant Power, Eastern Maine Power Cooperative, Versant Power, Central Maine Power, Eastern Maine Power Cooperative"
-Penobscot,2021,5.088970436145776,"Versant Power, Central Maine Power, Eastern Maine Power Cooperative, Central Maine Power, Versant Power, Eastern Maine Power Cooperative, Versant Power, Eastern Maine Power Cooperative, Central Maine Power"
-Penobscot,2022,16.71605232567426,"Versant Power, Central Maine Power, Eastern Maine Power Cooperative, Versant Power, Eastern Maine Power Cooperative, Central Maine Power, Eastern Maine Power Cooperative, Central Maine Power, Versant Power, Eastern Maine Power Cooperative, Versant Power, Central Maine Power"
-Penobscot,2023,6.066519614971822,"Central Maine Power, Versant Power, Eastern Maine Power Cooperative, Versant Power, Central Maine Power, Eastern Maine Power Cooperative, Eastern Maine Power Cooperative, Central Maine Power, Versant Power, Eastern Maine Power Cooperative, Versant Power, Central Maine Power, Versant Power, Eastern Maine Power Cooperative, Central Maine Power, Central Maine Power, Eastern Maine Power Cooperative, Versant Power"
+Penobscot,2017,25.251066653161345,"Central Maine Power, Central Maine Power, Versant Power, Versant Power, Central Maine Power"
+Penobscot,2018,12.424942503863646,"Versant Power, Central Maine Power, Versant Power, Central Maine Power, Eastern Maine Power Cooperative, Central Maine Power, Versant Power, Eastern Maine Power Cooperative"
+Penobscot,2019,19.68707026527644,"Central Maine Power, Versant Power, Eastern Maine Power Cooperative, Versant Power, Central Maine Power, Eastern Maine Power Cooperative"
+Penobscot,2020,42.05352296511838,"Eastern Maine Power Cooperative, Versant Power, Central Maine Power, Versant Power, Eastern Maine Power Cooperative, Central Maine Power, Central Maine Power, Versant Power, Eastern Maine Power Cooperative, Versant Power, Central Maine Power, Eastern Maine Power Cooperative"
+Penobscot,2021,5.004216382193492,"Versant Power, Central Maine Power, Eastern Maine Power Cooperative, Central Maine Power, Versant Power, Eastern Maine Power Cooperative, Versant Power, Eastern Maine Power Cooperative, Central Maine Power"
+Penobscot,2022,15.581696234193338,"Versant Power, Central Maine Power, Eastern Maine Power Cooperative, Versant Power, Eastern Maine Power Cooperative, Central Maine Power, Eastern Maine Power Cooperative, Central Maine Power, Versant Power, Eastern Maine Power Cooperative, Versant Power, Central Maine Power"
+Penobscot,2023,5.930258999178769,"Central Maine Power, Versant Power, Eastern Maine Power Cooperative, Versant Power, Central Maine Power, Eastern Maine Power Cooperative, Eastern Maine Power Cooperative, Central Maine Power, Versant Power, Eastern Maine Power Cooperative, Versant Power, Central Maine Power, Versant Power, Eastern Maine Power Cooperative, Central Maine Power, Central Maine Power, Eastern Maine Power Cooperative, Versant Power"
 Piscataquis,2016,6.073409084793714,Central Maine Power
-Piscataquis,2017,10.344824978202768,"Central Maine Power, Versant Power, Central Maine Power, Central Maine Power, Versant Power"
-Piscataquis,2018,36.139470606487336,"Versant Power, Central Maine Power, Central Maine Power, Versant Power"
-Piscataquis,2019,24.48319074652788,"Versant Power, Central Maine Power, Central Maine Power, Versant Power"
-Piscataquis,2020,85.19441067556296,"Versant Power, Central Maine Power, Central Maine Power, Versant Power"
-Piscataquis,2021,10.971173618891665,"Central Maine Power, Versant Power, Versant Power, Central Maine Power"
-Piscataquis,2022,17.544656386420694,"Versant Power, Central Maine Power, Central Maine Power, Versant Power"
-Piscataquis,2023,7.095663851780722,"Central Maine Power, Versant Power, Versant Power, Central Maine Power"
+Piscataquis,2017,10.031155926842395,"Central Maine Power, Versant Power, Central Maine Power, Central Maine Power, Versant Power"
+Piscataquis,2018,30.237955825378442,"Versant Power, Central Maine Power, Central Maine Power, Versant Power"
+Piscataquis,2019,20.777160990820725,"Versant Power, Central Maine Power, Central Maine Power, Versant Power"
+Piscataquis,2020,62.45272808050836,"Versant Power, Central Maine Power, Central Maine Power, Versant Power"
+Piscataquis,2021,10.114145169059336,"Central Maine Power, Versant Power, Versant Power, Central Maine Power"
+Piscataquis,2022,15.868710027335444,"Versant Power, Central Maine Power, Central Maine Power, Versant Power"
+Piscataquis,2023,6.6341302209518025,"Central Maine Power, Versant Power, Versant Power, Central Maine Power"
 Sagadahoc,2016,6.349394983490227,Central Maine Power
-Sagadahoc,2017,10.856325945856021,Central Maine Power
-Sagadahoc,2018,11.523013708219098,Central Maine Power
-Sagadahoc,2019,29.474855456041787,Central Maine Power
-Sagadahoc,2020,48.42054962288676,Central Maine Power
-Sagadahoc,2021,6.867060065144601,Central Maine Power
-Sagadahoc,2022,29.144871924109864,Central Maine Power
-Sagadahoc,2023,13.891893916051247,Central Maine Power
+Sagadahoc,2017,10.556337321859074,Central Maine Power
+Sagadahoc,2018,10.949733045586235,Central Maine Power
+Sagadahoc,2019,27.33966691395456,Central Maine Power
+Sagadahoc,2020,41.50403302460411,Central Maine Power
+Sagadahoc,2021,6.656680712006742,Central Maine Power
+Sagadahoc,2022,26.564537270040663,Central Maine Power
+Sagadahoc,2023,12.690100102599487,Central Maine Power
 Somerset,2016,1.962186431142762,Central Maine Power
-Somerset,2017,2.7105245928245205,Central Maine Power
-Somerset,2018,19.44570194892473,Central Maine Power
-Somerset,2019,27.632096846902225,Central Maine Power
-Somerset,2020,77.58435116779856,Central Maine Power
-Somerset,2021,7.691492889484089,Central Maine Power
-Somerset,2022,14.44280821044137,Central Maine Power
-Somerset,2023,8.207458782104391,Central Maine Power
+Somerset,2017,2.692540917144089,Central Maine Power
+Somerset,2018,17.649156941281717,Central Maine Power
+Somerset,2019,25.073263638053916,Central Maine Power
+Somerset,2020,61.90014444965737,Central Maine Power
+Somerset,2021,7.2826259896898655,Central Maine Power
+Somerset,2022,13.577731290685724,Central Maine Power
+Somerset,2023,7.935809089573959,Central Maine Power
 Waldo,2016,6.022960451602742,Central Maine Power
-Waldo,2017,4.714461268409487,"Central Maine Power, Central Maine Power, Versant Power"
-Waldo,2018,10.849249342433826,"Central Maine Power, Versant Power"
-Waldo,2019,16.492571061818676,"Central Maine Power, Versant Power"
-Waldo,2020,73.75341584158417,"Central Maine Power, Versant Power"
-Waldo,2021,6.08502422095996,"Central Maine Power, Versant Power"
-Waldo,2022,22.68725959367946,"Central Maine Power, Versant Power"
-Waldo,2023,7.674458638371025,"Central Maine Power, Versant Power"
-Washington,2017,41.90204161758931,Versant Power
-Washington,2018,20.651135556162888,"Versant Power, Versant Power, Eastern Maine Power Cooperative"
-Washington,2019,13.398179144103334,"Versant Power, Eastern Maine Power Cooperative"
-Washington,2020,10.88163538063156,"Eastern Maine Power Cooperative, Versant Power, Versant Power, Eastern Maine Power Cooperative"
-Washington,2021,3.261460509714863,"Versant Power, Eastern Maine Power Cooperative, Eastern Maine Power Cooperative, Versant Power"
-Washington,2022,14.722708771224386,"Versant Power, Eastern Maine Power Cooperative, Eastern Maine Power Cooperative, Versant Power"
-Washington,2023,13.850596676432641,"Versant Power, Eastern Maine Power Cooperative, Eastern Maine Power Cooperative, Versant Power"
+Waldo,2017,4.64929877195335,"Central Maine Power, Central Maine Power, Versant Power"
+Waldo,2018,10.488650684314203,"Central Maine Power, Versant Power"
+Waldo,2019,16.00333935142956,"Central Maine Power, Versant Power"
+Waldo,2020,58.53494983512243,"Central Maine Power, Versant Power"
+Waldo,2021,5.92999958949745,"Central Maine Power, Versant Power"
+Waldo,2022,20.91811294574719,"Central Maine Power, Versant Power"
+Waldo,2023,7.569998663503625,"Central Maine Power, Versant Power"
+Washington,2017,26.6803838782256,Versant Power
+Washington,2018,18.103591468801632,"Versant Power, Versant Power, Eastern Maine Power Cooperative"
+Washington,2019,12.55908939004302,"Versant Power, Eastern Maine Power Cooperative"
+Washington,2020,10.23070340300383,"Eastern Maine Power Cooperative, Versant Power, Versant Power, Eastern Maine Power Cooperative"
+Washington,2021,3.184968403990845,"Versant Power, Eastern Maine Power Cooperative, Eastern Maine Power Cooperative, Versant Power"
+Washington,2022,13.603829648894667,"Versant Power, Eastern Maine Power Cooperative, Eastern Maine Power Cooperative, Versant Power"
+Washington,2023,12.51094315057268,"Versant Power, Eastern Maine Power Cooperative, Eastern Maine Power Cooperative, Versant Power"
 York,2016,0.3460681350288332,Central Maine Power
-York,2017,7.757530088210795,Central Maine Power
-York,2018,9.517086670314546,Central Maine Power
-York,2019,11.107276472078084,Central Maine Power
-York,2020,20.165273116521774,Central Maine Power
-York,2021,6.593290098558967,Central Maine Power
-York,2022,24.453190354338386,Central Maine Power
-York,2023,14.609987057639263,Central Maine Power
+York,2017,7.731884685843054,Central Maine Power
+York,2018,9.374616612211815,Central Maine Power
+York,2019,10.91620779144101,Central Maine Power
+York,2020,19.27571540927283,Central Maine Power
+York,2021,6.4927195062196725,Central Maine Power
+York,2022,22.83627096922353,Central Maine Power
+York,2023,14.052383974167675,Central Maine Power
